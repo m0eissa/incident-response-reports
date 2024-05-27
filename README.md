@@ -115,9 +115,8 @@ A cohesive incident reporting process involves:
 
 For more information, please contact:
 
-- **Author:** Sabastian Hague (sebh24)
-- **Organization:** Hack The Box
-- **Email:** [contact@example.com](mailto:contact@example.com)
+- **Author:** Mohammed Elganzoury
+- **Email:** [Mohamed.Elganzoury511@outlook.com]
 
 ## License
 
